@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { AbstractControl, Form, FormBuilder, FormGroup, ValidationErrors, Validators } from '@angular/forms';
-import { MaterialModule } from '../angular-amaterial/material/material.module';
+import { MaterialModule } from '../../angular-amaterial/material/material.module';
 
 @Component({
   selector: 'app-pregunta4',
