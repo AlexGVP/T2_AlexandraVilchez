@@ -1,0 +1,19 @@
+.mat-card-title {
+  text-align: center;
+}
+
+.mat-form-field {
+  width: 100%;
+  text-align: center;
+}
+
+.mat-input-element {
+  text-align: center;
+}
+
+.mat-raised-button {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+  display: block;
+}

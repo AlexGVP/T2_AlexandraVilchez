@@ -34,9 +34,9 @@ export class Pregunta2Component {
     const utilidad = this.calcularUtilidad(salario, anos);
 
     if (utilidad !== null) {
-      alert('La utilidad calculada es:  ${utilidad.toFixed(2)}');
+      alert(`La utilidad calculada es: ${utilidad.toFixed(2)}`);
     } else {
-      alert('Por favor, ingrese valores válidos.');
+      alert('Por favor, ingrese valores numéricos válidos.');
     }
   }
 }
